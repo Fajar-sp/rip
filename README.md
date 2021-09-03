@@ -30,8 +30,8 @@
 ```bash
   ◪ SUPPORT
   │
-  ├❒ PULSA - 6287776101997
-  └❒ DANA - 6287776101997
+  PULSA - 6282288419944
+  ❒ DANA9628228841994497
 
   ◪ Nabi Muhammad SAW Bersabda :
 
